@@ -1,0 +1,12 @@
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\bin\Debug\net5.0\DemoAssessment.Domain.deps.json
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\bin\Debug\net5.0\DemoAssessment.Domain.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\bin\Debug\net5.0\ref\DemoAssessment.Domain.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\bin\Debug\net5.0\DemoAssessment.Domain.pdb
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.csprojAssemblyReference.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.AssemblyInfoInputs.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.AssemblyInfo.cs
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\ref\DemoAssessment.Domain.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Domain\obj\Debug\net5.0\DemoAssessment.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\DemoAssessment.Services.deps.json
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\DemoAssessment.Services.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\ref\DemoAssessment.Services.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\DemoAssessment.Services.pdb
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\DemoAssessment.Domain.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\bin\Debug\net5.0\DemoAssessment.Domain.pdb
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.csprojAssemblyReference.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.AssemblyInfoInputs.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.AssemblyInfo.cs
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.csproj.CoreCompileInputs.cache
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.csproj.CopyComplete
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\ref\DemoAssessment.Services.dll
+C:\Users\PCA91\Source\Repos\DemoAssessment\DemoAssessment.Services\obj\Debug\net5.0\DemoAssessment.Services.pdb
